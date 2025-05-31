@@ -34,7 +34,7 @@ const imageConfig = imageHostURL
 
 export default defineConfig({
   site: url,
-  base: '/',
+  base: '/personal-website-retypeset',
   trailingSlash: 'always',
   prefetch: {
     prefetchAll: true,

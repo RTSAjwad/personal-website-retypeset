@@ -14,7 +14,7 @@ export const themeConfig: ThemeConfig = {
     // author name
     author: 'Ajwad Mahboob',
     // site url
-    url: 'https://ajwadm.com/',
+    url: 'https://rtsajwad.github.io',
     // favicon url
     // recommended formats: svg, png or ico
     favicon: '/icons/favicon.svg', // or https://example.com/favicon.svg
